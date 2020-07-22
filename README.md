@@ -53,7 +53,7 @@ Additions? Make a pull request and add a suggestion under the appropriate headin
 * **[Dealing with files](#Dealing-with-files)**
 	- [Tools that interface with operating systems & files](#Operating-systems-and-files)
 	- [Building applications & exes](#Building-applications)
-	- [Converters, downloaders, & reducers](#Converters-downloaders-reducers)	
+	- [Converters, downloaders, & reducers](#Converters-downloaders-reducers)
 * **[More tools lists & reading about tools](#More-tools-lists)**
 
 
@@ -88,7 +88,7 @@ Game engines that let you make a full game, but often within a particular style,
 *   [Flatpack](https://candle.itch.io/flatpack) - Flatpack bundles Flatgame ideas up into a tool that you can import into Unity or run on Android.
 *   [Tiny Game Maker](https://isthisstatic.itch.io/tiny-game-maker) - For small, one screen games without programming.
 *   [Kooltool](https://candle.itch.io/kooltool) - An experimental game making tool which has Kidpix vibes.
-*   [The Unfolding Game Engine](https://barch.itch.io/unfolding) - One to watch (in early access right now). A “paint a world” engine that lets you make your world while playing it. 2.5d. 
+*   [The Unfolding Game Engine](https://barch.itch.io/unfolding) - One to watch (in early access right now). A “paint a world” engine that lets you make your world while playing it. 2.5d.
 *   [Multiverse](https://www.playmultiverse.com/) - Not out yet - a storytelling and game making tools/game.
 *   [Bitmelo](https://davidbyers.itch.io/bitmelo) - A game editor and engine for making small pixel art games. In early access, exports to HTML5.
 *   [Sok Worlds](https://sokpop.itch.io/sok-worlds) - ($3) A truly wild game/tool where you make and explore 3d collage worlds (images from the pixabay API, but there are over a million to choose from.).
@@ -138,7 +138,7 @@ A fantasy console is like a regular console (machine specs, dev tools, community
 
 *   [Pico8](https://www.lexaloffle.com/pico-8.php) - ($15) Probably the most popular fantasy console for game dev, pico8 has harsh limitations but that are intentionally chosen. Code is written in lua. Export to standalone HTML+JS or PNG (a fantasy cartridge).
 *   [Tic-80](https://tic.computer/) - Coding in lua and moonscript. export to html or .tic.
-*   [Pixel Vision 8](https://www.pixelvision8.com/) - (Free, pro version is $30) A no-console fantasy computer, navigate like the familiar icon-based desktops you know. 
+*   [Pixel Vision 8](https://www.pixelvision8.com/) - (Free, pro version is $30) A no-console fantasy computer, navigate like the familiar icon-based desktops you know.
 *   [LIKO-12](https://liko-12.github.io/) - Entirely open-source and free, written in Lua. The dev says: “Why did I develop this? Because I wanted to buy PICO-8 but that's not possible without credit cards (no internet shopping in Syria)”.
 *   [Pix64](https://zappedcow.itch.io/pix64) - An extremely tiny fantasy console (64x64 px).
 *   [Homegirl Pro](https://poeticandroid.itch.io/homegirl) - A fantasy console with a very different vibe! This one dispenses of pixel nostalgia and is modeled after a Commodore Amiga. Coding in Lua.
@@ -170,7 +170,7 @@ Tools or plug-ins that change the experience of using Unity.
 *   [unity-wave-function-collapse](https://selfsame.itch.io/unitywfc) - Bitmap & tilemap generation from a single example.
 *   [Tessera](https://assetstore.unity.com/packages/tools/modeling/tessera-procedural-tile-based-generator-155425)- 2d / 3d wave function collapse generation.
 *   [Borderless Unity Windows](https://novack.itch.io/borderless) - A tiny tool for making Unity frameless apps from script.
-*   [First Person Drifter](http://www.torahhorse.com/index.php/portfolio/first-person-drifter-for-unity/) - The original drifting game controller. 
+*   [First Person Drifter](http://www.torahhorse.com/index.php/portfolio/first-person-drifter-for-unity/) - The original drifting game controller.
 *   [2019 updated First Person Drifter](https://drive.google.com/file/d/1Qll6Pp_U1fN5IheQrjbVu-yeTHrj9JGI/view) - Download an updated first-person drifter package for Unity 2019 from me.
 *   [Unity Recorder](https://assetstore.unity.com/packages/essentials/unity-recorder-94079) - An editor-only tool that captures video and animation data during gameplay.
 *   [Bobbin](https://github.com/radiatoryang/bobbin) - A small Unity editor tool that can automatically download and import anything with a URL into the project.
@@ -323,6 +323,7 @@ Tools for creating moving images, either animated or videographic.
 *   [Synfig Studio](https://www.synfig.org/) - A 2D animation tool.
 *   [Video Downloader Bot](https://twitter.com/DownloaderBot/with_replies) - A twitterbot you can @mention to have it turn a piece of media into a download link.
 *   [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
+*   [Gifsicle](https://www.lcdf.org/gifsicle/) - command-line tool for creating, editing, and inspecting GIFs.
 *   [Easing functions cheat sheet](https://easings.net/en) - A “what type of animation do you need” resource.
 *   [Mr. Squiggles](http://www.mrsquiggles.com/) - Dead simple animated doodle maker.
 *   [Synopsis](https://synopsis.video/) - Open source computational cinematography.
@@ -352,7 +353,7 @@ Tools that help you deal with 3d models or 3d space.
 *   [Tree It](http://www.evolved-software.com/treeit/treeit) - an easy to use real time 3D tree generator.
 *   [The Grove](https://www.thegrove3d.com/buy/) - Growing (€119) Extremely competent tree growth software, works with Blender. Almost didn’t include because $ but it does what it does well.
 *   [Asset Forge](https://assetforge.io/) - ($20, or $40 for pro) Creates 3D models and 2D sprites by kit-bashing various pre-made blocks together.
-*   [FlowScape](https://pixelforest.itch.io/flowscape) - ($10) As much game as tool- the 3d Bob Ross experience. Usable as a landscape composer. 
+*   [FlowScape](https://pixelforest.itch.io/flowscape) - ($10) As much game as tool- the 3d Bob Ross experience. Usable as a landscape composer.
 *   [Dilay](http://abau.org/dilay/) - A 3D sculpting intuitive application.
 *   [MeshLab](http://meshlab.sourceforge.net/) - An open source system for processing and editing triangular meshes.
 *   [Blender](https://www.blender.org/) - The general standard open-source & free 3d modeling program. Complicated but powerful.
